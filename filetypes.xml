@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern=".prettierrc" type="JSON" />
-      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
