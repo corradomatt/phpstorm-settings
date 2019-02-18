@@ -1,0 +1,17 @@
+<templateSet group="Twig">
+  <template name="block" value="{% block $NAME$ %}&#10;    $END$&#10;{% endblock %}&#10;" description="block...endblock" toReformat="true" toShortenFQNames="false">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="embed" value="{% embed $TEMPLATE$ %}&#10;    $END$&#10;{% endembed %}&#10;" description="embed 'template'...endembed" toReformat="true" toShortenFQNames="false">
+    <variable name="TEMPLATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="dump" value="{{ dump($VAR$) }}" description="var dump" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

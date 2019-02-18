@@ -1,0 +1,25 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="searchOverloadedMethods" value="true" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.twig</mask>
+    <mask>*, !*.css, !*.scss</mask>
+    <mask>!*.css, !*.scss</mask>
+    <mask>*.phtml</mask>
+    <mask>*.php</mask>
+    <mask>*.js</mask>
+  </component>
+</application>
