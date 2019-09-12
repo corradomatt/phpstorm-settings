@@ -3,11 +3,19 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="meta alt down" />
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
