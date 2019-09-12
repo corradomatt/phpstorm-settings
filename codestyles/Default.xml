@@ -1,1 +1,6 @@
-<code_scheme name="Default" />
+<code_scheme name="Default" version="173">
+  <HCL-Terraform>
+    <option name="PROPERTY_ALIGNMENT" value="2" />
+    <option name="PROPERTY_LINE_COMMENTER_CHARACTER" value="1" />
+  </HCL-Terraform>
+</code_scheme>
