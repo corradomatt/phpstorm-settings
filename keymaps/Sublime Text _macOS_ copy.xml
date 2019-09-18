@@ -3,6 +3,8 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Console.TableResult.Reload" />
+  <action id="DatabaseView.Refresh" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="control button1" />
   </action>
@@ -22,4 +24,11 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="MethodOverloadSwitchUp" />
+  <action id="Refresh" />
+  <action id="Rerun" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.RefreshStatuses">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="hg4idea.QRefresh" />
 </keymap>
