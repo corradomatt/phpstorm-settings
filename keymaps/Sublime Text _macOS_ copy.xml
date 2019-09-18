@@ -26,9 +26,9 @@
   <action id="MethodOverloadSwitchUp" />
   <action id="Refresh" />
   <action id="Rerun" />
-  <action id="Vcs.Log.Refresh" />
-  <action id="Vcs.RefreshStatuses">
+  <action id="Synchronize">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="Vcs.Log.Refresh" />
   <action id="hg4idea.QRefresh" />
 </keymap>
