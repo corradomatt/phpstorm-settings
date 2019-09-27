@@ -14,18 +14,20 @@
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift tab" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
     <keyboard-shortcut first-keystroke="meta alt down" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="meta p" />
-  </action>
+  <action id="GotoFile" />
   <action id="MethodOverloadSwitchUp" />
   <action id="Refresh" />
   <action id="Rerun" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
