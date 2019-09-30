@@ -1,4 +1,4 @@
-<keymap version="1" name="Sublime Text (macOS) copy" parent="Sublime Text (Mac OS X)">
+<keymap version="1" name="Matt's Keymap" parent="Sublime Text (Mac OS X)">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -22,6 +22,9 @@
     <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="GotoFile" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="MethodOverloadSwitchUp" />
   <action id="Refresh" />
   <action id="Rerun" />
@@ -31,6 +34,7 @@
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
   <action id="hg4idea.QRefresh" />
 </keymap>
