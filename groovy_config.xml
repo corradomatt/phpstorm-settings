@@ -1,0 +1,6 @@
+<application>
+  <component name="GroovyApplicationSettings">
+    <option name="CONVERT_PARAM_SPECIFY_MAP_TYPE" value="true" />
+    <option name="CONVERT_PARAM_CREATE_NEW_PARAM" value="true" />
+  </component>
+</application>
