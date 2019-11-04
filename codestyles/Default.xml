@@ -1,4 +1,10 @@
 <code_scheme name="Default" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </value>
+  </option>
   <HCL-Terraform>
     <option name="PROPERTY_ALIGNMENT" value="2" />
     <option name="PROPERTY_LINE_COMMENTER_CHARACTER" value="1" />
