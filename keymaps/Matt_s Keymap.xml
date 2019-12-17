@@ -1,12 +1,21 @@
 <keymap version="1" name="Matt's Keymap" parent="Sublime Text (Mac OS X)">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Console.TableResult.Reload" />
   <action id="DatabaseView.Refresh" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift ctrl meta v" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
@@ -26,6 +35,9 @@
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="MethodOverloadSwitchUp" />
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
   <action id="Refresh" />
   <action id="Rerun" />
   <action id="SearchEverywhere">
