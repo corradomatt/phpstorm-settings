@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gotmpl" type="Go template" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="helmfile" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
