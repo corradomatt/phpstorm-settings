@@ -3,14 +3,12 @@
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="gotmpl" type="Go template" />
-      <mapping ext="tpl" type="Go template" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="helmfile" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <removed_mapping ext="tpl" type="Smarty" />
     </extensionMap>
   </component>
 </application>
