@@ -12,6 +12,8 @@
     <option name="RENAME_CLASS_IN_FILE" value="false" />
   </component>
   <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_VARIABLE" value="false" />
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
     <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
