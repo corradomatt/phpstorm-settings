@@ -6,6 +6,7 @@
   </component>
   <component name="UsageViewSettings">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="IS_PREVIEW_USAGES" value="true" />
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.47116104" />
   </component>
 </application>
