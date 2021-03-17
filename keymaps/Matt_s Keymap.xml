@@ -34,11 +34,18 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id="GotoSymbol" />
   <action id="MethodOverloadSwitchUp" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift meta v" />
   </action>
   <action id="Refresh" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
   <action id="Rerun" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
