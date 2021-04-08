@@ -14,6 +14,10 @@
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" type="YAML" />
+      <mapping ext="yaml" type="YAML_EX" />
+      <mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="gotmpl" type="Go template" />
