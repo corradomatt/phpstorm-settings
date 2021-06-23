@@ -77,8 +77,8 @@
         <entry key="*.apk">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1425,8 +1425,8 @@
         <entry key="*.psd">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.intellij.platform.images" />
+              <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1458,24 +1458,27 @@
         <entry key="*.py">
           <value>
             <plugin>
-              <option name="myPluginId" value="Pythonid" />
-              <option name="myPluginName" value="Python" />
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="*.pyi">
           <value>
             <plugin>
-              <option name="myPluginId" value="Pythonid" />
-              <option name="myPluginName" value="Python" />
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="*.pyw">
           <value>
             <plugin>
-              <option name="myPluginId" value="Pythonid" />
-              <option name="myPluginName" value="Python" />
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1555,6 +1558,15 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rst">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.rest" />
+              <option name="myPluginName" value="ReStructuredText" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1828,8 +1840,9 @@
         <entry key="*.ui">
           <value>
             <plugin>
-              <option name="myPluginId" value="Pythonid" />
-              <option name="myPluginName" value="Python" />
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2308,8 +2321,9 @@
         <entry key="buildout.cfg">
           <value>
             <plugin>
-              <option name="myPluginId" value="Pythonid" />
-              <option name="myPluginName" value="Python" />
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
