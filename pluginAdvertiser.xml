@@ -19,7 +19,7 @@
                   </entry>
                   <entry key="#org.intellij.plugins.hcl.terraform.run.TerraformConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Terraform" pluginName="HashiCorp Terraform / HCL language support" pluginId="org.intellij.plugins.hcl" />
+                      <FeaturePluginData displayName="Terraform" pluginName="Terraform and HCL" pluginId="org.intellij.plugins.hcl" />
                     </value>
                   </entry>
                   <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
