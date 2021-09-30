@@ -4,4 +4,7 @@
     <option name="autoSaveFiles" value="false" />
     <option name="autoSyncFiles" value="false" />
   </component>
+  <component name="Registry">
+    <entry key="documentation.show.toolbar" value="true" />
+  </component>
 </application>
