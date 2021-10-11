@@ -5,12 +5,6 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <HCL-Terraform>
-    <option name="PROPERTY_ALIGNMENT" value="2" />
-    <option name="PROPERTY_LINE_COMMENTER_CHARACTER" value="1" />
-    <option name="OBJECT_WRAPPING" value="1" />
-    <option name="ARRAY_WRAPPING" value="1" />
-  </HCL-Terraform>
   <codeStyleSettings language="Markdown">
     <option name="RIGHT_MARGIN" value="999" />
     <option name="WRAP_ON_TYPING" value="1" />
