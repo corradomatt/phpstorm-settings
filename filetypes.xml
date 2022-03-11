@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="sshd_config" type="AUTO_DETECTED" />
+      <mapping pattern="percon-rlpp-hosts" type="AUTO_DETECTED" />
       <mapping pattern="ansible_gcp_ssh_key" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
