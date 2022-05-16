@@ -1,4 +1,4 @@
-<filetype binary="false" description="Terraform Plan Output" name="Terraform Plan Output">
+<filetype binary="false" default_extension="tfplan" description="Terraform Plan Output" name="Terraform Plan Output">
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="" />
