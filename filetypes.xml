@@ -7,6 +7,7 @@
       <mapping pattern="ansible_gcp_ssh_key" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="j2" type="Jinja2" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -29,7 +30,6 @@
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <mapping ext="gotmpl" type="Go template" />
-      <mapping ext="j2" type="Jinja2" />
     </extensionMap>
   </component>
 </application>
