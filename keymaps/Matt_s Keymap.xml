@@ -54,6 +54,7 @@
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="Terminal.NewTab" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
   <action id="android.deploy.ApplyChanges">
