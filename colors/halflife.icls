@@ -1,4 +1,5 @@
 <scheme name="Halflife" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -17,7 +18,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="7d8991" />
     <option name="FILESTATUS_MODIFIED" value="f9d423" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="f9d423" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="f9d423" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
@@ -41,7 +41,6 @@
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
@@ -340,7 +339,7 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_ATTRIBUTE" baseAttributes="" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="555555" />
@@ -379,7 +378,7 @@
         <option name="FOREGROUND" value="808080" />
       </value>
     </option>
-    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_ENTITY" baseAttributes="" />
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="7d8991" />
@@ -417,7 +416,7 @@
         <option name="FOREGROUND" value="7d8991" />
       </value>
     </option>
-    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_LABEL" baseAttributes="" />
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="555555" />
@@ -438,7 +437,7 @@
         <option name="FOREGROUND" value="7d8991" />
       </value>
     </option>
-    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="7d8991" />
@@ -454,7 +453,7 @@
         <option name="FOREGROUND" value="f9d423" />
       </value>
     </option>
-    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
+    <option name="DEFAULT_TAG" baseAttributes="" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
         <option name="FOREGROUND" value="7d8991" />
@@ -518,7 +517,6 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="ENUM_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -652,7 +650,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="222222" />
@@ -802,17 +799,17 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="" />
     <option name="JS.PARAMETER">
       <value>
         <option name="EFFECT_COLOR" value="dee3ec" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+    <option name="JS.REGEXP" baseAttributes="" />
     <option name="JSP_DIRECTIVE_NAME">
       <value>
         <option name="FOREGROUND" value="7d8991" />

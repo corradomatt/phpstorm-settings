@@ -7,7 +7,6 @@
       <mapping pattern="ansible_gcp_ssh_key" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
-      <mapping ext="j2" type="Jinja2" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -25,6 +24,7 @@
       <removed_mapping pattern="*.conf.j2" approved="true" type="SmartyConfig" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
