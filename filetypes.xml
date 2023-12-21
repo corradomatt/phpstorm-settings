@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="testing" type="AUTO_DETECTED" />
       <mapping pattern="sshd_config" type="AUTO_DETECTED" />
