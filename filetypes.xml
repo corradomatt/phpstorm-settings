@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="testing" type="AUTO_DETECTED" />
       <mapping pattern="sshd_config" type="AUTO_DETECTED" />
+      <mapping pattern="diff" type="AUTO_DETECTED" />
       <mapping pattern="percon-rlpp-hosts" type="AUTO_DETECTED" />
       <mapping pattern="ansible_gcp_ssh_key" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
