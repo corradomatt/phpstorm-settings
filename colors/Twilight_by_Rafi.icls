@@ -560,7 +560,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
     <option name="PHP_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="9b703f" />
@@ -890,7 +889,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
