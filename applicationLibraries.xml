@@ -315,5 +315,10 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/tree-sitter-languages" />
       </SOURCES>
     </library>
+    <library name="Python 3.12 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>

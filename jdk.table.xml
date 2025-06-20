@@ -345,5 +345,25 @@
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="Python 3.12" />
+      <type value="Python SDK" />
+      <version value="Python 3.12.11" />
+      <homePath value="/usr/local/bin/python3.12" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
   </component>
 </application>
