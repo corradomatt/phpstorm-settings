@@ -177,18 +177,18 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
-    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
-    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+    <option name="DEFAULT_ATTRIBUTE" baseAttributes="" />
+    <option name="DEFAULT_CONSTANT" baseAttributes="" />
+    <option name="DEFAULT_ENTITY" baseAttributes="" />
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="" />
+    <option name="DEFAULT_LABEL" baseAttributes="" />
+    <option name="DEFAULT_METADATA" baseAttributes="" />
+    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="" />
+    <option name="DEFAULT_STATIC_FIELD" baseAttributes="" />
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="" />
+    <option name="DEFAULT_TAG" baseAttributes="" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="" />
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ffffff" />
@@ -889,7 +889,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
