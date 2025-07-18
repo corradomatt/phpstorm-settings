@@ -7,15 +7,15 @@
   <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
-    <option name="CARET_COLOR" value="ffffff" />
-    <option name="CARET_ROW_COLOR" value="3b3c32" />
+    <option name="CARET_COLOR" value="FFFFFF" />
+    <option name="CARET_ROW_COLOR" value="3B3C32" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="GUTTER_BACKGROUND" value="484848" />
     <option name="INDENT_GUIDE" value="494848" />
-    <option name="LINE_NUMBERS_COLOR" value="2f2f2f" />
+    <option name="LINE_NUMBERS_COLOR" value="2F2F2F" />
     <option name="RIGHT_MARGIN_COLOR" value="333333" />
-    <option name="SELECTED_TEARLINE_COLOR" value="c0c0c0" />
-    <option name="TEARLINE_COLOR" value="0" />
+    <option name="SELECTED_TEARLINE_COLOR" value="C0C0C0" />
+    <option name="TEARLINE_COLOR" value="000000" />
     <option name="WHITESPACES" value="454444" />
   </colors>
   <attributes>
@@ -124,8 +124,8 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_ATTRIBUTE" baseAttributes="" />
+    <option name="DEFAULT_CONSTANT" baseAttributes="" />
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
         <option name="FOREGROUND" value="5460e0" />
@@ -134,7 +134,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_ENTITY" baseAttributes="" />
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="63c1cf" />
@@ -142,25 +142,25 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="" />
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="66463" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
+    <option name="DEFAULT_LABEL" baseAttributes="" />
+    <option name="DEFAULT_METADATA" baseAttributes="" />
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="cf4b1c" />
       </value>
     </option>
-    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="" />
+    <option name="DEFAULT_STATIC_FIELD" baseAttributes="" />
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="" />
+    <option name="DEFAULT_TAG" baseAttributes="" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="3da4ff" />
@@ -470,7 +470,7 @@
         <option name="FOREGROUND" value="66d9ef" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="808080" />
@@ -538,7 +538,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="808000" />

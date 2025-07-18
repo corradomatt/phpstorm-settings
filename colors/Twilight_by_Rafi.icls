@@ -4,19 +4,19 @@
   <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
-    <option name="ANNOTATIONS_COLOR" value="3e83e7" />
-    <option name="CARET_COLOR" value="ffff99" />
+    <option name="ANNOTATIONS_COLOR" value="3E83E7" />
+    <option name="CARET_COLOR" value="FFFF99" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1a1a1a" />
-    <option name="FOLDING_TREE_COLOR" value="253e5a" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1A1A1A" />
+    <option name="FOLDING_TREE_COLOR" value="253E5A" />
     <option name="INDENT_GUIDE" value="363636" />
-    <option name="LEFT_GUTTER_BACKGROUND" value="e0e0e" />
-    <option name="LINE_NUMBERS_COLOR" value="9b9b9b" />
+    <option name="LEFT_GUTTER_BACKGROUND" value="0E0E0E" />
+    <option name="LINE_NUMBERS_COLOR" value="9B9B9B" />
     <option name="MODIFIED_LINES_COLOR" value="808080" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="666666" />
-    <option name="SELECTED_FOLDING_TREE_COLOR" value="543e5a" />
-    <option name="SELECTION_BACKGROUND" value="2c2c2c" />
+    <option name="SELECTED_FOLDING_TREE_COLOR" value="543E5A" />
+    <option name="SELECTION_BACKGROUND" value="2C2C2C" />
     <option name="SELECTION_FOREGROUND" value="" />
   </colors>
   <attributes>
@@ -177,18 +177,18 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
-    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
-    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+    <option name="DEFAULT_ATTRIBUTE" baseAttributes="" />
+    <option name="DEFAULT_CONSTANT" baseAttributes="" />
+    <option name="DEFAULT_ENTITY" baseAttributes="" />
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="" />
+    <option name="DEFAULT_LABEL" baseAttributes="" />
+    <option name="DEFAULT_METADATA" baseAttributes="" />
+    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="" />
+    <option name="DEFAULT_STATIC_FIELD" baseAttributes="" />
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="" />
+    <option name="DEFAULT_TAG" baseAttributes="" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="" />
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ffffff" />
@@ -889,7 +889,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
