@@ -185,6 +185,10 @@
           <root type="composite" />
         </sourcePath>
       </roots>
+      <additional SDK_UUID="ef2cc801-88ed-46b2-adea-7efaf8a159ea">
+        <setting name="FLAVOR_ID" value="MacPythonSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
     </jdk>
   </component>
 </application>
