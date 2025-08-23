@@ -1,0 +1,7 @@
+<templateSet group="user-php">
+  <template name="debugwp" value="define('WP_DEBUG', true);&#10;define('SCRIPT_DEBUG', true);&#10;define('HJI_DEBUG', true);" description="WP Config lines for turning on debug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

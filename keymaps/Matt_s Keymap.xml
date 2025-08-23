@@ -1,0 +1,67 @@
+<keymap version="1" name="Matt's Keymap" parent="Sublime Text (Mac OS X)">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Console.TableResult.Reload" />
+  <action id="DatabaseView.Refresh" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift ctrl meta v" />
+  </action>
+  <action id="EditorSelectLine" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="meta alt down" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="GotoFile" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="GotoSymbol" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
+  <action id="Refresh" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="Rerun" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Terminal.NewTab" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
+  <action id="hg4idea.QRefresh" />
+</keymap>
