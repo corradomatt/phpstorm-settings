@@ -36,7 +36,8 @@
   <component name="ScriptedLoadersAssociations">
     <extensions>
       <set>
-        <option value="json" />
+        <option value="parquet" />
+        <option value="shp" />
         <option value="xls" />
         <option value="xlsx" />
       </set>
