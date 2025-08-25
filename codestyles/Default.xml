@@ -5,9 +5,6 @@
   <GoCodeStyleSettings>
     <option name="RUN_GO_FMT_ON_REFORMAT" value="false" />
   </GoCodeStyleSettings>
-  <HCL-Terraform>
-    <option name="RUN_TF_FMT_ON_REFORMAT" value="true" />
-  </HCL-Terraform>
   <codeStyleSettings language="Markdown">
     <option name="RIGHT_MARGIN" value="999" />
     <option name="WRAP_ON_TYPING" value="1" />
