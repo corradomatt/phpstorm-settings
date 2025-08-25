@@ -1,0 +1,23 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.12 (macBookSetup) interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload" />
+        <root url="file://$USER_HOME$/code/macBookSetup/.venv/lib/python3.12/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.2/python_stubs/769965379" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload" />
+        <root url="file://$USER_HOME$/code/macBookSetup/.venv/lib/python3.12/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.2/python_stubs/769965379" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
