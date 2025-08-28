@@ -180,6 +180,10 @@
             <root url="file:///Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.2/python_stubs/769965379" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/pytz" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/PyMySQL" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
           </root>
         </classPath>
         <javadocPath>
