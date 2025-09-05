@@ -30,6 +30,7 @@
       <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
+      <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkinsfile" />
       <mapping ext="gotmpl" type="Go template" />
     </extensionMap>
   </component>
