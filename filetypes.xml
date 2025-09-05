@@ -8,19 +8,33 @@
       <mapping pattern="percon-rlpp-hosts" type="AUTO_DETECTED" />
       <mapping pattern="ansible_gcp_ssh_key" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
+      <mapping pattern=".springBeans" type="Eclipse" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="jest.config" type="JSON" />
+      <mapping pattern=".eslintrc" type="JSON" />
+      <mapping pattern=".stylelintrc" type="JSON" />
+      <mapping pattern=".babelrc" type="JSON" />
+      <mapping pattern=".ws-context" type="JSON" />
+      <mapping pattern=".prettierrc" type="JSON" />
+      <mapping ext="jsb2" type="JSON" />
+      <mapping ext="jsb3" type="JSON" />
+      <mapping pattern=".devcontainer.json" type="JSON5" />
+      <mapping pattern="devcontainer.json" type="JSON5" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="jenkins_remote_trigger" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="helmfile" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping pattern="spring.handlers" type="Properties" />
+      <mapping pattern="spring.schemas" type="Properties" />
+      <mapping ext="wadl" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping pattern="*.conf.j2" approved="true" type="SmartyConfig" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
