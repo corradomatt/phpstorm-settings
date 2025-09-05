@@ -1,0 +1,5 @@
+<application>
+  <component name="ClaudeCodePluginSettings">
+    <option name="claudeCommand" value="claude-gateway" />
+  </component>
+</application>
