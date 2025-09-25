@@ -10,5 +10,6 @@
     <entry key="documentation.show.toolbar" value="true" source="SYSTEM" />
     <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
     <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
+    <entry key="java.highest.language.level" value="25" source="MANAGER" />
   </component>
 </application>
