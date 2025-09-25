@@ -13,6 +13,7 @@
     <option name="ENABLED" value="false" />
   </editorconfig>
   <codeStyleSettings language="JSON">
+    <option name="SPACE_WITHIN_BRACES" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
