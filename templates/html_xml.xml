@@ -1,0 +1,8 @@
+<templateSet group="html/xml">
+  <template name="html" value="&lt;html&gt;&#10;    &lt;head&gt;&#10;        &#10;    &lt;/head&gt;&#10;    &lt;body&gt;&#10;    &#10;    &lt;/body&gt;&#10;&lt;/html&gt;" description="Create HTML Wrapper" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,16 @@
+<templateSet group="user">
+  <template name="////" value="&#10;// $Comments$&#10;// --------------------------------------------------&#10;$end$" description="SCSS Comment Block" toReformat="true" toShortenFQNames="true">
+    <variable name="Comments" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="FormInput" value="&lt;div class=&quot;form-group&quot;&gt;&#10;&#10;            &lt;label for=&quot;$field$&quot;&gt;$Field$:&lt;/label&gt;&#10;&#10;            &lt;input type=&quot;text&quot; name=&quot;$field$&quot; id=&quot;$field$&quot; class=&quot;form-control&quot; placeholder=&quot;$Field$&quot; value=&quot;{{ old('$field$') }}&quot;&gt;&#10;            &#10;        &lt;/div&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Field" expression="capitalize(String)" defaultValue="$field$" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

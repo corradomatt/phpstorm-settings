@@ -1,0 +1,25 @@
+<templateSet group="HJI Templates">
+  <template name="accordpanel" value="&lt;div class=&quot;page-section panel responsivePanel responsivePanel--$title$&quot;&gt;&#10;&#10;    &lt;div class=&quot;responsivePanel__heading&quot; role=&quot;tab&quot; id=&quot;heading-$title$&quot;&gt;&#10;&#10;        &lt;h4 class=&quot;responsivePanel__title&quot;&gt;&#10;            &lt;a href=&quot;#$title$&quot; class=&quot;collapsed&quot; data-role=&quot;collapsible&quot; role=&quot;button&quot; data-toggle=&quot;collapse&quot; data-parent=&quot;#accordion&quot; aria-expanded=&quot;true&quot; aria-controls=&quot;$title$&quot;&gt;$displaytitle$&lt;/a&gt;&#10;        &lt;/h4&gt;&#10;&#10;    &lt;/div&gt;&#10;&#10;    &lt;div id=&quot;$title$&quot; class=&quot;responsivePanel__collapse panel-collapse&quot; role=&quot;tabpanel&quot; aria-labelledby=&quot;heading-$title$&quot;&gt;&#10;&#10;        &lt;div class=&quot;responsivePanel__body&quot;&gt;&#10;            &#10;            $END$&#10;            &#10;        &lt;/div&gt;&#10;        &#10;    &lt;/div&gt;&#10;    &#10;&lt;/div&gt;" description="Responsive Accordion Panel Markup - Blvd 4" toReformat="false" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="displaytitle" expression="capitalize(title)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="bsmodal" value="&lt;!-- Modal --&gt;&#10;&lt;div class=&quot;modal fade&quot; id=&quot;$ID$&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;$ID$Label&quot;&gt;&#10;    &#10;    &lt;div class=&quot;modal-dialog&quot; role=&quot;document&quot;&gt;&#10;        &#10;        &lt;div class=&quot;modal-content&quot;&gt;&#10;            &#10;            &lt;div class=&quot;modal-header&quot;&gt;&#10;                &#10;                &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot; aria-label=&quot;Close&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/span&gt;&lt;/button&gt;&#10;                &#10;                &lt;h4 class=&quot;modal-title&quot; id=&quot;$ID$Label&quot;&gt;$title$&lt;/h4&gt;&#10;                &#10;            &lt;/div&gt;&#10;            &#10;            &lt;div class=&quot;modal-body&quot;&gt;&#10;                &#10;                $END$&#10;                &#10;            &lt;/div&gt;&#10;            &#10;            &lt;div class=&quot;modal-footer&quot;&gt;&#10;                &lt;button type=&quot;button&quot; class=&quot;btn btn-default&quot; data-dismiss=&quot;modal&quot;&gt;Close&lt;/button&gt;&#10;                &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Submit&lt;/button&gt;&#10;            &lt;/div&gt;&#10;        &lt;/div&gt;&#10;    &lt;/div&gt;&#10;&lt;/div&gt;" description="Bootstrap Modal" toReformat="false" toShortenFQNames="true">
+    <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="dump" value="{{ dump($END$) }}" description="Var Dumps for Twig" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
