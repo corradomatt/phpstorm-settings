@@ -1,9 +1,5 @@
 <application>
   <component name="ReworkedTerminalUsage"><![CDATA[{
-  "feedbackNotificationShown": true,
-  "enterKeyPressedTimes": 47
+  "enterKeyPressedTimes": 9
 }]]></component>
-  <component name="TerminalOptionsProvider">
-    <option name="useOptionAsMetaKey" value="true" />
-  </component>
 </application>
