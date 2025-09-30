@@ -341,7 +341,7 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE" baseAttributes="" />
+    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="777777" />
@@ -380,7 +380,7 @@
         <option name="FOREGROUND" value="9b9b9b" />
       </value>
     </option>
-    <option name="DEFAULT_ENTITY" baseAttributes="" />
+    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="edb92e" />
@@ -418,7 +418,7 @@
         <option name="FOREGROUND" value="edb92e" />
       </value>
     </option>
-    <option name="DEFAULT_LABEL" baseAttributes="" />
+    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="777777" />
@@ -439,7 +439,7 @@
         <option name="FOREGROUND" value="edb92e" />
       </value>
     </option>
-    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="" />
+    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="3bc7b8" />
@@ -455,7 +455,7 @@
         <option name="FOREGROUND" value="3bc7b8" />
       </value>
     </option>
-    <option name="DEFAULT_TAG" baseAttributes="" />
+    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
         <option name="FOREGROUND" value="edb92e" />
