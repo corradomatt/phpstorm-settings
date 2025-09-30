@@ -1,0 +1,9 @@
+<application>
+  <component name="aws">
+    <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
+    <option name="promptedForTelemetry" value="true" />
+  </component>
+  <component name="notificationEtag">
+    <option name="etag" value="&quot;8155ead2d484a2daeb03438d50c02e6d&quot;" />
+  </component>
+</application>
