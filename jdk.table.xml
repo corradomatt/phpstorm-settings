@@ -161,6 +161,7 @@
           </root>
         </sourcePath>
       </roots>
+      <additional />
     </jdk>
   </component>
 </application>
