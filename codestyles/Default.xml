@@ -1,25 +1,9 @@
 <code_scheme name="Default" version="173">
-  <option name="OTHER_INDENT_OPTIONS">
-    <value />
-  </option>
-  <GoCodeStyleSettings>
-    <option name="RUN_GO_FMT_ON_REFORMAT" value="false" />
-  </GoCodeStyleSettings>
-  <JSON>
-    <option name="OBJECT_WRAPPING" value="1" />
-    <option name="ARRAY_WRAPPING" value="1" />
-  </JSON>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
-  <codeStyleSettings language="JSON">
-    <option name="SPACE_WITHIN_BRACES" value="true" />
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Markdown">
-    <option name="RIGHT_MARGIN" value="999" />
-    <option name="WRAP_ON_TYPING" value="1" />
-  </codeStyleSettings>
+  <SqlCodeStyleSettings version="7">
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="2" />
+  </SqlCodeStyleSettings>
 </code_scheme>
