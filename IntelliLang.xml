@@ -6,14 +6,6 @@
       <place><![CDATA[groovyElement().annotationParam("groovy.lang.Newify", "pattern")]]></place>
       <place><![CDATA[groovyLiteralExpression().regExpOperatorArgument()]]></place>
     </injection>
-    <injection language="Spring-MongoDB-JSON" injector-id="java">
-      <display-name>Aggregation (org.springframework.data.mongodb.repository)</display-name>
-      <ignore-pattern>(:#\{#\w+\}|\?#\{.+\})</ignore-pattern>
-      <single-file value="false" />
-      <place><![CDATA[psiMethod().withName("collation").withParameters().definedInClass("org.springframework.data.mongodb.repository.Aggregation")]]></place>
-      <place><![CDATA[psiMethod().withName("pipeline").withParameters().definedInClass("org.springframework.data.mongodb.repository.Aggregation")]]></place>
-      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.data.mongodb.repository.Aggregation")]]></place>
-    </injection>
     <injection language="http-header-reference" injector-id="java">
       <display-name>Apache HttpClient 4 HTTP Header (org.apache.http)</display-name>
       <single-file value="true" />
@@ -102,15 +94,6 @@
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Insert")]]></place>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Select")]]></place>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Update")]]></place>
-    </injection>
-    <injection language="Spring-MongoDB-JSON" injector-id="java">
-      <display-name>Query (org.springframework.data.mongodb.repository)</display-name>
-      <ignore-pattern>(:#\{#\w+\}|\?#\{.+\})</ignore-pattern>
-      <single-file value="true" />
-      <place><![CDATA[psiMethod().withName("collation").withParameters().definedInClass("org.springframework.data.mongodb.repository.Query")]]></place>
-      <place><![CDATA[psiMethod().withName("fields").withParameters().definedInClass("org.springframework.data.mongodb.repository.Query")]]></place>
-      <place><![CDATA[psiMethod().withName("sort").withParameters().definedInClass("org.springframework.data.mongodb.repository.Query")]]></place>
-      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.data.mongodb.repository.Query")]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
       <display-name>QueryProducer (org.hibernate.query)</display-name>
@@ -303,14 +286,6 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("doesNotMatch").definedInClass("com.google.common.truth.StringSubject"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("matches").definedInClass("com.google.common.truth.StringSubject"))]]></place>
     </injection>
-    <injection language="Spring-MongoDB-JSON" injector-id="java">
-      <display-name>Update.value (org.springframework.data.mongodb.repository)</display-name>
-      <ignore-pattern>(:#\{#\w+\}|\?#\{.+\})</ignore-pattern>
-      <single-file value="true" />
-      <place><![CDATA[psiMethod().withName("pipeline").withParameters().definedInClass("org.springframework.data.mongodb.repository.Update")]]></place>
-      <place><![CDATA[psiMethod().withName("update").withParameters().definedInClass("org.springframework.data.mongodb.repository.Update")]]></place>
-      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.data.mongodb.repository.Update")]]></place>
-    </injection>
     <injection language="SQL" injector-id="java">
       <display-name>Vert.x SQL Extensions (io.vertx.ext.sql)</display-name>
       <single-file value="true" />
@@ -406,7 +381,7 @@
       <place><![CDATA[jsLiteral().and(asAssignedValue("text", "flash.data.SQLStatement"))]]></place>
     </injection>
     <injection language="RegExp" injector-id="kotlin">
-      <display-name>Kotlin</display-name>
+      <display-name>Kotlin RegExp</display-name>
       <single-file value="true" />
       <place><![CDATA[kotlinParameter().ofFunction(0, kotlinFunction().withName("Regex").definedInClass("kotlin.text.Regex"))]]></place>
       <place><![CDATA[receiver().ofFunction(kotlinFunction().withName("toPattern").withReceiver("kotlin.String").definedInPackage("kotlin.text"))]]></place>
