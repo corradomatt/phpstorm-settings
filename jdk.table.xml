@@ -163,5 +163,40 @@
       </roots>
       <additional />
     </jdk>
+    <jdk version="2">
+      <name value="Python 3.13" />
+      <type value="Python SDK" />
+      <version value="Python 3.13.7" />
+      <homePath value="/opt/homebrew/bin/python3.13" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/homebrew/Cellar/python@3.13/3.13.7/Frameworks/Python.framework/Versions/3.13/lib/python3.13" type="simple" />
+            <root url="file:///opt/homebrew/Cellar/python@3.13/3.13.7/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload" type="simple" />
+            <root url="file:///opt/homebrew/lib/python3.13/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.2/python_stubs/-373310684" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/hvac" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/PyYAML" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/xmltodict" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="399a61b1-47f9-4133-919e-319711fba780">
+        <setting name="FLAVOR_ID" value="MacPythonSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
   </component>
 </application>

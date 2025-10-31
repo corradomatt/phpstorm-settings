@@ -1,0 +1,31 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.13 interpreter library">
+      <CLASSES>
+        <root url="file:///opt/homebrew/Cellar/python@3.13/3.13.7/Frameworks/Python.framework/Versions/3.13/lib/python3.13" />
+        <root url="file:///opt/homebrew/Cellar/python@3.13/3.13.7/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload" />
+        <root url="file:///opt/homebrew/lib/python3.13/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.2/python_stubs/-373310684" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/cffi" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/hvac" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/PyYAML" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/requests" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/xmltodict" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Cellar/python@3.13/3.13.7/Frameworks/Python.framework/Versions/3.13/lib/python3.13" />
+        <root url="file:///opt/homebrew/Cellar/python@3.13/3.13.7/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload" />
+        <root url="file:///opt/homebrew/lib/python3.13/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.2/python_stubs/-373310684" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/cffi" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/hvac" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/PyYAML" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/requests" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/xmltodict" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
